@@ -1,0 +1,68 @@
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: Grey;
+}
+
+h3 {
+    text-align: center;
+    border: solid black 1px;
+
+}
+
+p {
+    display: none;
+    text-align: center;
+
+}
+
+h2 {
+    display: none;
+    text-align: center;
+    border: solid black 1px;
+}
+
+.Accept {
+    display: none;
+}
+
+.Outside {
+    display: none;
+}
+
+.Dungeon {
+    display: none;
+}
+
+.Bandits {
+    display: none;
+}
+
+.Choice2 {
+    display: none;
+}
+
+.Choice1 {
+    display: none;
+}
+
+.Run {
+    display: none;
+}
+
+.Door {
+    display: none;
+}
+
+.ImBack {
+    display: none;
+}
+
+.DragonStone {
+    display: none;
+}
